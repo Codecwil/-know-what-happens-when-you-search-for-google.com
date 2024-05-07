@@ -1,0 +1,1 @@
+Ever wondered what really happens behind the scenes when you hit that ENTER button after typing a search query like "Google.com"? 🤔 Well, buckle up because I'm about to take you on a fascinating journey through the inner workings of the internet!
